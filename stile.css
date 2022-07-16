@@ -1,0 +1,31 @@
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 60px 0;
+}
+ul li {
+  display: inline-block;
+}
+ul li a {
+  text-decoration: none;
+  text-transform: uppercase;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 23px;
+  color: white;
+  padding: 20px;
+  background-color: darkblue;
+}
+
+h1 {
+  color: white;
+  background-color: red;
+  text-transform: uppercase;
+}
+
+p {
+  font-size: 20px;
+  color: white;
+  background-color: blue;
+  text-transform: uppercase;
+}/*# sourceMappingURL=stile.css.map */
